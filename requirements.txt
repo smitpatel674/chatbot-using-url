@@ -5,3 +5,4 @@ tldextract
 html2text
 playwright
 scikit-learn
+gunicorn==23.0.0
