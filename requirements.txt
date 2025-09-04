@@ -1,0 +1,7 @@
+gradio
+google-generativeai
+python-dotenv
+tldextract
+html2text
+playwright
+scikit-learn
