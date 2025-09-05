@@ -1,4 +1,5 @@
 gradio==3.42.0
+audioop-lts
 pydub
 google-generativeai
 python-dotenv
